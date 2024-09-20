@@ -1,13 +1,9 @@
-1) Open CMD and type the flowing (one by one)
+1) Environment setup-  Open CMD and type the flowing (one by one)
 
 pip install pytube
 pip install yt-dlp
 
 
-2) That's all now you are all set- 
+2) Running the setup-  
 
 run it in your code editor (by clicking on run button) or type- python youtube_downloader.py (on CMD with the correct path set)
-
-
-NOTE- also try to download the files in the downloads folder of this project in order to make it organized. 
-
